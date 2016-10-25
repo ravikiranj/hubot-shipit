@@ -3,7 +3,7 @@
   "description": "A hubot script that provides easy access to the shipit squirrel and its kin",
   "version": "0.2.0",
   "author": "Josh Nichols <technicalpickles@github.com>",
-  "license": "MIT",
+  "license": "BSD-2-Clause",
   "keywords": "hubot, hubot-scripts",
   "repository": {
     "type": "git",
